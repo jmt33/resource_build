@@ -1,6 +1,7 @@
 {
     "global": {
         "javascript": ["res:jquery"],
-        "css": ["base.css"]
+        "css": ["base.css"],
+        "scss": "global.scss"
     }
 }

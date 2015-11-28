@@ -11,6 +11,7 @@
     "prefix": {
         "resources_key": "controllers",
         "resources_css": "assets/stylesheets",
+        "resources_scss": "assets/scss",
         "resources_javascript": "assets/javascripts"
     }
 }

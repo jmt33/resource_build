@@ -46,6 +46,7 @@
         "css": [
             "res:jquery_ui_button",
             "jquery/ui/themes/base/jquery.ui.dialog.css"
-        ]
+        ],
+        "scss": "scss/page.scss"
     }
 }
